@@ -1,0 +1,17 @@
+{
+  "name": "react-taps",
+  "version": "0.0.1",
+  "description": "react 简单选项卡tap切换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "tap",
+    "选项卡",
+    "切换"
+  ],
+  "author": "yy",
+  "license": "ISC"
+}

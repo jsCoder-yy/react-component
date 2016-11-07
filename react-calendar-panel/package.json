@@ -1,0 +1,19 @@
+{
+  "name": "react-calendar-panel",
+  "version": "0.0.1",
+  "description": "react-calendar日历组件",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "calendar",
+    "日历"
+  ],
+  "author": "yy",
+  "license": "ISC"
+}
